@@ -88,12 +88,12 @@ Landing page with headline KPIs — total clients, total loan, total deposit, to
 ### 💳 Loan Analysis
 Loan exposure broken down by banking relationship, income band, nationality, and occupation.
 
-![Loan Analysis Dashboard](Dashboard%20Photos/Loan Analysis.png)
+![Loan Analysis Dashboard](Dashboard%20Photos/LoanAnalysis.png)
 
 ### 🏦 Deposit Analysis
 Deposit balances (bank, savings, checking, foreign currency) broken down the same way as the loan view.
 
-![Deposit Analysis Dashboard](Dashboard%20Photos/Deposit Analysis.png)
+![Deposit Analysis Dashboard](Dashboard%20Photos/DepositAnalysis.png)
 
 ### 📋 Summary
 A single scorecard view consolidating every loan and deposit KPI for a selected client segment.
