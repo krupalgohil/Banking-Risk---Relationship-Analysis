@@ -93,7 +93,7 @@ Loan exposure broken down by banking relationship, income band, nationality, and
 ### 🏦 Deposit Analysis
 Deposit balances (bank, savings, checking, foreign currency) broken down the same way as the loan view.
 
-![Deposit Analysis Dashboard](Dashboard%20Photos/DepositAnalysis.png)
+![Deposit Analysis Dashboard](Dashboard%20Photos/DepositeAnalysis.png)
 
 ### 📋 Summary
 A single scorecard view consolidating every loan and deposit KPI for a selected client segment.
